@@ -7,4 +7,6 @@ Current defaults:
 - Use numbered `<c>` tags: false
 - EAD3 schema: false
 
+MARC export includes option to include or exclude unpublished.
+
 Be sure not to override export options that may be introduced in subsequent releases.
