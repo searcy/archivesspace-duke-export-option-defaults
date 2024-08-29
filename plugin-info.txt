@@ -1,0 +1,2 @@
+AppConfig[:plugins] = ['archivesspace_duke_ead_export_option_defaults']
+plugin_version: 3.5.1

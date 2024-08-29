@@ -1,0 +1,7 @@
+en:
+  plugins:
+    archivesspace_duke_ead_export_option_defaults:
+      label: Archivesspace Duke EAD Export Option Defaults
+      title: Archivesspace Duke EAD Export Option Defaults
+      version: 3.5.1
+      url: https://github.com/NYU-ACM/archivesspace-duke-ead-export-option-defaults/releases/tag/v3.5.1
