@@ -5,6 +5,7 @@ Current defaults:
 - Include unpublished: false
 - Include `<dao>` tags: true
 - Use numbered `<c>` tags: false
+- Include URIs: false
 - EAD3 schema: false
 
 MARC export includes option to include or exclude unpublished.
